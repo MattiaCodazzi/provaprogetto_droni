@@ -1,3 +1,3 @@
 **gestione del progetto**
 <br>
-io capo, coda schiavo
+io capo, coda schiavo!!
